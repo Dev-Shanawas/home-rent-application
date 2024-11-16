@@ -1,0 +1,11 @@
+{
+  "name": "home-rentals-application",
+  "version": "1.0.0",
+  "description": "The Home Rental Application is a web platform that allows users to search, book, and manage rental properties. The application features a user-friendly interface for property owners to list their properties and for tenants to find their ideal homes. It also includes a chatbot powered by OpenAI API for assisting users with queries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shanawas",
+  "license": "ISC"
+}
