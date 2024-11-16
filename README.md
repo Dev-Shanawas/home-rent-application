@@ -34,9 +34,9 @@ Make sure you have **Node.js** and **npm** installed on your system.
      ```bash
        npm start
      
-### Video Demo
+### Video and documentation :
 
-    [Link Text](https://drive.google.com/drive/folders/17Ent_qDYdSfUb1-asnEmeE6ixTKytxpM?usp=drive_link)
+ [Watch here](https://drive.google.com/drive/folders/17Ent_qDYdSfUb1-asnEmeE6ixTKytxpM?usp=drive_link)
   
 
 
